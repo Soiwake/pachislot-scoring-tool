@@ -4,9 +4,9 @@ import { GeistMono } from 'geist/font/mono'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'v0 App',
-  description: 'Created with v0',
-  generator: 'v0.dev',
+  title: 'スロット台営業成績データ入力',
+  description: 'スロット台の営業成績を記録・分析するツール',
+  generator: 'pachislot-scoring-tool',
 }
 
 export default function RootLayout({
